@@ -1,0 +1,17 @@
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/ToUpper.Test.deps.json
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/ToUpper.Test.runtimeconfig.json
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/ToUpper.Test.runtimeconfig.dev.json
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/ToUpper.Test.dll
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/ToUpper.Test.pdb
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/ToUpper.dll
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/bin/Debug/netcoreapp2.1/ToUpper.pdb
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/obj/Debug/netcoreapp2.1/ToUpper.Test.csprojAssemblyReference.cache
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/obj/Debug/netcoreapp2.1/ToUpper.Test.csproj.CoreCompileInputs.cache
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/obj/Debug/netcoreapp2.1/ToUpper.Test.AssemblyInfoInputs.cache
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/obj/Debug/netcoreapp2.1/ToUpper.Test.AssemblyInfo.cs
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/obj/Debug/netcoreapp2.1/ToUpper.Test.csproj.CopyComplete
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/obj/Debug/netcoreapp2.1/ToUpper.Test.dll
+/home/msimonis/Dokumente/Projects/faas-projects/dns/test/ToUpper.Test/obj/Debug/netcoreapp2.1/ToUpper.Test.pdb

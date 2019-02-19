@@ -1,0 +1,7 @@
+provider:
+  name: faas
+  gateway: http://127.0.0.1:8080
+
+functions:
+  ToUpper:
+    image: artifactory.gdata.de:6555/pt-ata-docker/faas-test/to-upper:0.0.1
