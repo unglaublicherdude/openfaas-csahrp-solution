@@ -4,4 +4,4 @@ provider:
 
 functions:
   ToUpper:
-    image: artifactory.gdata.de:6555/pt-ata-docker/faas-test/to-upper:0.0.1
+    image: prefix/to-upper:0.0.1
